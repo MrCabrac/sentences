@@ -81,6 +81,7 @@ class wordManage():
 
 database = db()
 
+######## Create DataBase
 #words = wordManage()
 #words.readAllFiles()
 #a = time.time()
